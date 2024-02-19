@@ -1,7 +1,7 @@
 
   function consoleDevelopedByVishwaoffl(message, imageUrl, linkUrl) {
     const styles = `
-        font-size: 24px;
+        font-size: 18px;
         font-weight: bold;
         padding: 20px;
         background: url(${imageUrl}) no-repeat center;
